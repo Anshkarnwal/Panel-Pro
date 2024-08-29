@@ -1,6 +1,6 @@
 # Responsive Admin Dashboard
 
-A web application dashboard built using React, HTML, CSS, and JavaScript. This application provides users with a responsive and interactive dashboard to visualize data in various forms, such as graphs, tables, and more. The project utilizes libraries like ApexCharts, Circular Progressbar, and Framer Motion to enhance the user interface and experience.
+A Web Application dashboard built using React, HTML, CSS, and JavaScript. This application provides users with a responsive and interactive dashboard to visualize data in various forms, such as graphs, tables, and more. The project utilizes libraries like ApexCharts, Circular Progressbar, and Framer Motion to enhance the user interface and experience.
 
 ## Features
 
