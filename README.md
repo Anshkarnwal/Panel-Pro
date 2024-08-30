@@ -56,7 +56,11 @@ Make sure you have the following installed on your system:
 
 ## Screenshots
 
-_(Include screenshots or GIFs of your application here to give a visual representation.)_
+![Dashbord-screenshots1](https://github.com/user-attachments/assets/57453537-0862-4d94-8c36-5ec4639e355f)
+![Dashbord-screenshots2](https://github.com/user-attachments/assets/fb0d068b-a9ae-44b1-a11a-4dcae2613ba2)
+
+
+
 
 ## Contributing
 
